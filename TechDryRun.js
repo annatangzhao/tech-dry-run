@@ -5,6 +5,6 @@ var hrr18 = {
   name: 'Anna Tang Zhao'
   name: 'Esther Oh',
   name: 'Michael Daof'
-  name: 'Tyler Predale'
+  name: 'Tyler Kipp Predale'
 }
 
